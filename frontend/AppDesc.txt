@@ -1,0 +1,5 @@
+/*
+Name: Alexander Yang Rhoads
+Program Description: Full stack Showcase for a job interview. Frontend is in React, backend is in Django, and they have to be deployed to AWS. 
+File Description: This is the main App.js file for the frontend. It is the main component that is rendered when the app is run.
+*/
